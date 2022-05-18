@@ -11,6 +11,12 @@ portainer-ce 2.11中文版
 
 支持 `X86`、`ARM`、 `ARM64` 平台的系统
 
+### Docker Hub
+
+`docker pull outlovecn/portainer-cn`
+或者
+`docker pull ghcr.io/outlovecn/portainer-cn:main`
+
 ### 简要说明
 
 1. docker-compose 
@@ -37,8 +43,3 @@ services:
 docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data outlovecn/portainer-cn:latest
 ```
 
-3. 仅拉取镜像
-
-```
-docker pull outlovecn/portainer-cn
-```
