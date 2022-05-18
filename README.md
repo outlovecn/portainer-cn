@@ -3,9 +3,7 @@
 portainer-ce 2.11中文版 
 
 [![GitHub Stars](https://img.shields.io/github/stars/outlovecn/portainer-cn.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/outlovecn/portainer-cn)
-[![GitHub Release](https://img.shields.io/github/release/outlovecn/portainer-cn.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/outlovecn/portainer-cn/releases)
 [![GitHub Package Repository](https://img.shields.io/static/v1.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=outlovecn&message=GitHub%20Package&logo=github)](https://github.com/outlovecn/portainer-cn/packages)
-[![GitLab Container Registry](https://img.shields.io/static/v1.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=outlovecn&message=GitLab%20Registry&logo=gitlab)](https://gitlab.com/outlovecn/portainer-cn/container_registry)
 [![Docker Pulls](https://img.shields.io/docker/pulls/outlovecn/portainer-cn.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=pulls&logo=docker)](https://hub.docker.com/r/outlovecn/portainer-cn)
 [![Docker Stars](https://img.shields.io/docker/stars/outlovecn/portainer-cn.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=stars&logo=docker)](https://hub.docker.com/r/outlovecn/portainer-cn)
 
