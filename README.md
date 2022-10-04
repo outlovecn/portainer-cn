@@ -17,7 +17,7 @@ portainer-ce 2.11中文版
 或者
 `docker pull ghcr.io/outlovecn/portainer-cn:main`
 
-### 简要说明
+### 简要说明, 两种使用方式任选其一皆可
 
 1. docker-compose 
 
