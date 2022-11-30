@@ -7,6 +7,9 @@ portainer-ce 2.11中文版
 [![Docker Pulls](https://img.shields.io/docker/pulls/outlovecn/portainer-cn.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=pulls&logo=docker)](https://hub.docker.com/r/outlovecn/portainer-cn)
 [![Docker Stars](https://img.shields.io/docker/stars/outlovecn/portainer-cn.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=stars&logo=docker)](https://hub.docker.com/r/outlovecn/portainer-cn)
 
+### 预览
+![预览](https://imgs.outlove.cn/dashboard.png)
+
 ### 平台支持
 
 支持 `X86`、`ARM`、 `ARM64` 平台的系统
