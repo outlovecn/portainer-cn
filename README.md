@@ -8,7 +8,7 @@ portainer-ce 2.11中文版
 [![Docker Stars](https://img.shields.io/docker/stars/outlovecn/portainer-cn.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=stars&logo=docker)](https://hub.docker.com/r/outlovecn/portainer-cn)
 
 ### 预览
-![预览](https://imgs.onlypic.cc/i/2023/11/19/6559b65575da1.png)
+![预览](https://file.outlove.cn/portainer-cn.png)
 
 ### 平台支持
 
